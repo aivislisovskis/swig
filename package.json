@@ -1,6 +1,6 @@
 {
-  "name": "swig-templates",
-  "version": "2.0.0",
+  "name": "swig",
+  "version": "1.0.0",
   "description": "A simple, powerful, and extendable templating engine for node.js and browsers, similar to Django, Jinja2, and Twig.",
   "keywords": [
     "template",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/node-swig/swig-templates.git"
+    "url": "https://github.com/aivislisovskis/swig.git"
   },
   "dependencies": {
     "uglify-js": "2.6.0",
@@ -61,7 +61,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/node-swig/swig-templates/issues"
+    "url": "https://github.com/aivislisovskis/swig/issues"
   },
   "pre-commit": [
     "validate",
